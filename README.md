@@ -47,6 +47,18 @@ node index.js
 ```sh
 localhost:8080
 ```
+OCR INPUT
+![00000209-PHOTO-2023-03-03-17-38-03](https://github.com/user-attachments/assets/70842a11-0de8-4899-89b8-0ae1d2406352)
+
+![00000214-ceb3](https://github.com/user-attachments/assets/ad1cacb7-318f-40dd-b9e5-d914e6d8b817)
+
+TEXT BASED INPUT
+![00000215-ceb2](https://github.com/user-attachments/assets/0d2eec3d-eabd-4cb9-a426-1442eeb3b4b5)
+
+![00000236-PHOTO-2023-03-15-19-02-10](https://github.com/user-attachments/assets/14f7b18e-2ac0-4b1a-99df-3b30cedf8fc9)
+
+DATABASE
+![00000237-PHOTO-2023-03-15-19-03-15](https://github.com/user-attachments/assets/6adb535c-2675-4817-91fe-d2c0e7dd9286)
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
